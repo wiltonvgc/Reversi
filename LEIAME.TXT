@@ -1,0 +1,15 @@
+Trabalho 1 - Computação Gráfica e Multimídia - UFSCar - 2016/2
+Feito por: Wilton V. G. da Cruz e Vitor M. Cid 
+Implementação do jogo "Reversi" - 2D
+===============================================================================================================================================
+OBS1) Na pasta "dist" está contido o "executável" para LINUX denominado "T1-CG.jar". Assim, para "rodar" o jogo basta ir ao terminal e executar 
+o comando:   java -jar <path T1-CG.jar>
+
+OBS2) Também na pasta "dist" está contido o código-fonte do jogo implementado. Ele está no diretório "src".
+
+OBS3) Na pasta "docs" está o relatório/instruções em pdf, nomeado como "Reversi.pdf".
+
+OBS4) Para a abertura do arquivo de instruções no clique de "INSTRUÇÕES", necessita-se de um leitor de pdf instalado.
+
+
+
